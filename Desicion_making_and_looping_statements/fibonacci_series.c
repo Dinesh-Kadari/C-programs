@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-    int f1 = 0, f2 = 1, f3, n, i = 3;
+    int f1 = 1, f2 = 1, f3, n, i = 3;
     printf("Enter, how many number you need: ");
     scanf("%d", &n);
     printf("%d\t", f1);
